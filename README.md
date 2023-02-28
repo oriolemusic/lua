@@ -1,4 +1,4 @@
-# lua 5.2.4
+# lua v5.2.4
 * lua.exe
 * luac.exe
 * lua.dll
