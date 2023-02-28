@@ -1,2 +1,5 @@
 # lua 5.2.4
-lua.dll, luac.exe, lua.exe, lua.lib
+* lua.exe
+* luac.exe
+* lua.dll
+* lua.lib
